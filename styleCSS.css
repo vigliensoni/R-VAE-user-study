@@ -192,3 +192,15 @@ a:hover{
   outline: rgb(30, 30, 30) 2px solid;
 }
 
+
+
+/* INSTRUCTIONS */
+h1 {
+  font-size: 100%;
+}
+p {
+  font-size: 60%;
+}
+ul li {
+  font-size: 50%;
+}
